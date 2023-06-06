@@ -1,4 +1,4 @@
-~ALX SE 2nd sprint~
+*ALX SE 2nd sprint*
 
 This repo contains project directories that incorporate Python Scripting, Shell Scripting and C Scripting. While making sure they meet the following standards:
 
