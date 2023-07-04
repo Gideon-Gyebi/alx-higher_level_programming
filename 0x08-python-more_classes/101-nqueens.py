@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 """This code is to solve the N-queens puzzle.
 
 Finding all possible solutions to placing N
